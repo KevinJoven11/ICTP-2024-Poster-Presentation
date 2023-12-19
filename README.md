@@ -3,4 +3,6 @@
 # Quantum Circuit Optimization based on mid-circuits entanglement
 ### By: Kevin Joven
 
-This repository contains all the information of the poster presented at the conference. Feel free to reach me if any question.
+This repository contains all the information on the poster presented at the conference. Feel free to reach me if you have any questions.
+
+![image info](Images/Poster_Img.png)
